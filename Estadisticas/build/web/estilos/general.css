@@ -1,0 +1,62 @@
+body {
+    font-family: sans-serif;
+    background-color: blanchedalmond;
+    color: brown;
+}
+
+.centrado {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.formulario {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contenido {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+}
+
+a:link {
+    text-decoration: none;
+    background-color: coral;
+    color: white;
+    padding: 1%;
+}
+
+a:visited {
+    text-decoration: none;
+    background-color: coral;
+    color: white;    
+}
+
+a:active {
+    text-decoration: none;
+    background-color: brown;
+    color: lemonchiffon;
+}
+
+a:hover {
+    text-decoration: none;
+    background-color: coral;
+    color: lemonchiffon;
+}
+
+.encabezado {
+    background-color: coral;
+    color: white;
+}
+
+.derecha {
+    text-align: right;
+}
+table {
+    width: 100%;
+}
